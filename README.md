@@ -1,15 +1,15 @@
 ## Hello there, I'm Hubert 👋
-Computer Engineering student at Wroclaw's University of Science and Technology.
+Computer Engineering student 🎓 at Wroclaw's University of Science and Technology.
 
 Currently suffering from unemployement, and in pursuit of fun project ideas and time.
 
 Here's a little about me:
-  - metalhead
-  - dark fantasy nerd
-  - game modder
-  - programmer
-  - aspiring cook
-## Technologia
+- 🎸 Metalhead
+- 🖤 Dark fantasy nerd
+- 🛠️ Game modder
+- 👨‍💻 Programmer
+- 🍳 Aspiring cook
+## ⚙️Technologia
 ### Favourite Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C/C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
